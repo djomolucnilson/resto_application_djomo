@@ -1,0 +1,62 @@
+[
+  {
+    "placeImage": "assets/images/images.jpeg",
+    "placeName": "Spaghetti",
+    "placeItems": ["Spaghetti"],
+    "prix": 1000
+  },
+  {
+    "placeImage": "assets/images/téléchargement.jpeg",
+    "placeName": "Sauté de Tomate",
+    "placeItems": ["Spaghetti","haricots","2 plantain","spaghetti","friture","eau glace"],
+    "prix": 1500
+  },
+  {
+    "placeImage": "assets/images/ndole_crevette2.jpg",
+    "placeName": "Crevette",
+    "placeItems": ["Crevette","eau glace"],
+    "prix": 3000
+  },
+  {
+    "placeImage": "assets/images/queue_boeuf9.jpg",
+    "placeName": "Kondres",
+    "placeItems": ["kondres","chevres","porc","boeux","eau glace"],
+    "prix": 5000
+  },
+  {
+    "placeImage": "assets/images/images.jpeg",
+    "placeName": "taro",
+    "placeItems": ["taro","canda","porc","boeux","eau glace"],
+    "prix": 4500
+  },
+  {
+    "placeImage": "assets/images/téléchargement.jpeg",
+    "placeName": "eru",
+    "placeItems": ["eru","canda","porc","tapioca","fufu","eau glace"],
+    "prix": 3000
+  },
+  {
+    "placeImage": "assets/images/images.jpeg",
+    "placeName": "gombo",
+    "placeItems": ["gombo","canda","couscous","eau glace"],
+    "prix": 2000
+  },
+  {
+    "placeImage": "assets/images/ndole_crevette2.jpg",
+    "placeName": "poulet",
+    "placeItems": ["rotir","bresser","frit","plantain","eau glace"],
+    "prix": 2500
+  },
+  {
+    "placeImage": "assets/images/ndole_crevette2.jpg",
+    "placeName": "tilapia",
+    "placeItems": ["tilapia","miondo","plantain frite","pomme frite","eau glace"],
+    "prix": 2500
+  },
+  {
+    "placeImage": "assets/images/images.jpeg",
+    "placeName": "Ndole plantain",
+    "placeItems": ["ndole","plantain","porc","pattes de boeuf","friture","eau glace"],
+    "prix": 2000
+  }
+]
